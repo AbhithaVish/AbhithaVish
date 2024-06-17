@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Software Engineering Student<br>👯 Love to learn Coding<br>🤝 Learned C,C++,Python,Java,Html,JavaScript<br>🌱 Quick learning about any tech<br>💬 Ask me about anything <br>⚡ Fun fact "That's What she said !"
+🔭 I’m a Software Engineering Student<br>👯 Love to learn Coding<br>🤝 Learned C,C++,Python,Java,Html,JavaScript & PHP<br>🌱 Quick learning about any tech<br>💬 Ask me about anything <br>⚡ Fun fact "That's What she said !"
 
 
 ## 🌐 Socials:
